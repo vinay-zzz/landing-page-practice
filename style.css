@@ -1,0 +1,69 @@
+body {
+    box-sizing: content-box;
+    margin:10px  300px;
+    
+}
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    padding: 10px 50px;
+}
+
+.Header-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.links {
+    display: flex;
+    gap: 10px;
+}
+li {
+    list-style: none;
+}
+.header-image {
+    height:100px;
+    width: auto;
+    padding-right: 20px;
+}
+.Header-logo {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+.Heading {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+.subtext {
+    color: #e5e7eb;
+    font-size: 18px;
+    flex-wrap: wrap;
+    align-self: center;
+    justify-self: center;
+}
+.Auto-repair {
+    font-size: 24px;
+    color: #f9faf8;
+}
+a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+.Header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Sign-up {
+    flex-grow: 0;
+    align-self: center;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    margin-top: 15px;
+    border-radius: 5px;
+}
