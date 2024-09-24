@@ -97,7 +97,7 @@ h3 {
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
-    padding: 50px;
+    padding: 50px 200px;
 }
 .review {
     font-size: 36px;
