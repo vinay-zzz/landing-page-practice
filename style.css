@@ -90,3 +90,25 @@ h3 {
     text-align: center;
     color: #3882f6;
 }
+.Review {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.review {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    
+}
+.Name {
+    padding-right: 50px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    align-self: flex-end;
+}
+
