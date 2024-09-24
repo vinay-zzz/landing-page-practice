@@ -111,4 +111,22 @@ h3 {
     margin-right: 70px;
     align-self: flex-end;
 }
+.Sign-Up {
+    display: flex;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    justify-content: space-between;
+    margin: 30px 120px;
+    padding: 30px 100px;
+    border-radius: 7px;
+}
+.second-signup {
+    flex-grow: 0;
+    align-self: center;
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border:3px #e5e7eb solid;
+}
 
